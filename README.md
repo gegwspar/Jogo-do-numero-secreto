@@ -20,6 +20,7 @@ Este é um jogo simples de adivinhação, onde o jogador tenta descobrir qual é
 # 📝 Licença
 <div align="center">
 Projeto com fins educacionais, livre para aprendizado e adaptação.
+  
 Feito com 💜 durante os estudos na ONE + Alura.
 </div>
 
